@@ -1,6 +1,26 @@
 
 h1 {
-    color: yellow;
+    color: orange;
     background-color: black;
     text-align: center;
+    border: 5px solid orange;
+    
+
+}
+
+h3 {
+    color: orange;
+    background-color: black;
+    text-align: center;
+    border: double;
+    padding: 20px;
+}
+
+li {
+    font: thick sans-serif;
+    text-shadow: 1px 1px orange;   
+}
+
+body {
+    background-color: rgba(16, 247, 235, 0.932);
 }
